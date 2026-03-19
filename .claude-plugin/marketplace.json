@@ -10,8 +10,8 @@
     {
       "name": "synthkit",
       "source": {
-        "source": "github",
-        "repo": "rappdw/synthkit"
+        "source": "url",
+        "repo": "https://github.com/rappdw/synthkit.git"
       },
       "description": "Document synthesis toolkit — guided exploration, markdown to PDF/DOCX/HTML/email",
       "keywords": ["documents", "pdf", "docx", "markdown", "synthesis"]
