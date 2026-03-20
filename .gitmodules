@@ -1,0 +1,3 @@
+[submodule "synthkit"]
+	path = synthkit
+	url = https://github.com/rappdw/synthkit.git
