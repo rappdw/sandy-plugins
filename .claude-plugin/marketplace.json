@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "sandy-plugins",
   "owner": {
     "name": "Dan Rapp"
@@ -9,13 +10,13 @@
   "plugins": [
     {
       "name": "synthkit",
-      "source": "https://github.com/rappdw/synthkit",
+      "source": { "source": "github", "repo": "rappdw/synthkit" },
       "description": "Document synthesis toolkit — guided exploration, markdown to PDF/DOCX/HTML/email",
       "keywords": ["documents", "pdf", "docx", "markdown", "synthesis"]
     },
     {
       "name": "ait",
-      "source": "https://github.com/rappdw/ait",
+      "source": { "source": "github", "repo": "rappdw/ait" },
       "description": "Personal AI team and knowledge base — specialized agents, dynamic hiring, and searchable information repository",
       "keywords": ["team", "agents", "knowledge-base", "workflow-automation", "collaboration"]
     }
