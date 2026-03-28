@@ -10,8 +10,8 @@
   "plugins": [
     {
       "name": "synthkit",
-      "source": { "source": "git-subdir", "url": "rappdw/synthkit", "path": ".", "ref": "v0.6.2" },
-      "description": "Thinking tools and production tools for AI — structured exploration, strategic debate, and document conversion",
+      "source": { "source": "github", "repo": "rappdw/synthkit" },
+      "description": "Document synthesis toolkit — guided exploration, markdown to PDF/DOCX/HTML/email",
       "keywords": ["documents", "pdf", "docx", "markdown", "synthesis"]
     },
     {
